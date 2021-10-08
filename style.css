@@ -29,11 +29,13 @@ header {
 .logo{
     opacity:0.7;
     font-size:30px;
+    
     color:white;
 }
 
 .header-left {
     float:left;
+    line-height:90px
 }
 
 
