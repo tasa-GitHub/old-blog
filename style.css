@@ -19,7 +19,11 @@ a {
     border-radius: 4px;
     background-color: #55acee;
 }
-    
+ 
+.twtter_timeline {
+    width: 200px;
+}
+
 header {
     background-color:cadetblue;
     height: 90px;
