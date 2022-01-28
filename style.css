@@ -11,7 +11,8 @@ a {
 }
 
 .btn {
-    margin: auto;
+    position: absolute;
+    margin: 25px;
     padding: 4px 10px;
     color: white;
     display: block;
