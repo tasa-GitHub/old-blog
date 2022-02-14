@@ -24,41 +24,41 @@ header {
   align-items: center; 
 }
 
-#header-left {
+.header-left {
   float: left;
   display: flex;
 }
 
-#header-left li {
+.header-left li {
   list-style: none;
 }
 
-#header-left li+li {
+.header-left li+li {
   padding-left : 20px;
 }
 
-#parent {
+.parent {
   display: flex;
   color: #3C3B3B;
 }
 
-#sidebar {
+.sidebar {
   width: 15vw;
   height: 1000px;
 }
 
-#main {
+.main {
   width: 85vw;
   padding-left : 30px;
 }
 
-#icon {
+.icon {
   margin: 5px;
   margin-top: 20px;
   width : 14vw;
   border-radius: 100vw;
 }
 
-#icon:hover{
+.icon:hover{
   opacity: 0.6;
 }
